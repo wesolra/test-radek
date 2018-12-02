@@ -1,0 +1,9 @@
+{
+    "type": "sftp",
+    "host": "tradek.ca",
+    "username": "ec2-user",
+    "sshKeyFile": "/home/radek_W/.aws/radek_main.pem",
+    "port": 22,
+    "remotePath": "/opt/test-radek",
+    "uploadOnSave": false
+}
